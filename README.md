@@ -29,14 +29,14 @@ It uses your webcam to track your hand movements in real-time with **MediaPipe**
 
 ## 📂 Project Structure
 
-AI-Virtual-Painter/
-│── main.py            # Main file to start the app
-│── hand_tracker.py    # Handles hand detection & finger tracking
-│── painter.py         # Drawing, filling, shapes & canvas logic
-│── ui.py              # UI for color palette, modes & shapes
-│── requirements.txt   # Project dependencies
-│── README.md          # Project documentation
-│── assets/            # (Optional) Screenshots, demo GIFs, etc.
+AI-Virtual-Painter
+- │── main.py            # Main file to start the app
+- │── hand_tracker.py    # Handles hand detection & finger tracking
+- │── painter.py         # Drawing, filling, shapes & canvas logic
+- │── ui.py              # UI for color palette, modes & shapes
+- │── requirements.txt   # Project dependencies
+- │── README.md          # Project documentation
+- │── assets/            # (Optional) Screenshots, demo GIFs, etc.
 
 ---
 
@@ -45,7 +45,7 @@ AI-Virtual-Painter/
 Follow these steps to run the project on your system:
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/AI-Virtual-Painter.git
+git clone https://github.com/metaexploder/AI_Virtual_painter
 cd AI-Virtual-Painter
 
 ### 2️⃣ Install Dependencies
@@ -111,7 +111,7 @@ python main.py
 ## 👨‍💻 Author
 
 **Vishal**
-[GitHub](https://github.com/<your-username>)
+[GitHub](https://github.com/metaexploder)
 
 ---
 
